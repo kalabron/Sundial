@@ -1,2 +1,2 @@
 # Sundial
-Project Sundail
+Project Sundial
